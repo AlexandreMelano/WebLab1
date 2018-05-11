@@ -35,4 +35,10 @@
 
 # 2 Questions I still have are...
 
+1.
+
 * 
+*
+
+   ## Answer:
+
