@@ -35,10 +35,9 @@
 
 # 2 Questions I still have are...
 
-1.
+* Is this course a back end / front end or full stack course?
 
-* 
-*
+* I haven't touched web developement in my co-ops... How can I keep up with others?
 
    ## Answer:
 
