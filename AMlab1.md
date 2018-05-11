@@ -39,5 +39,4 @@
 
 * I haven't touched web developement in my co-ops... How can I keep up with others?
 
-1.  ![GitHub Logo](D:\Courses\Advanced Web Programming\Lab\Lab1\capture.png)
-Format: ![Alt Text](url)
+1. ![Image of Node -v](https://github.com/AlexandreMelano/WebLab1/blob/master/Capture.PNG)
