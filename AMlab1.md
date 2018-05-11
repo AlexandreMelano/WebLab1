@@ -31,7 +31,7 @@
    console.log('Server running on port 3000')
    ```
    
-   ## Answer: It will NOT updated until you restart the server, it cannot update in this case while running.
+   ## Answer: It will NOT update until you restart the server, it canno't update in this case while running.
 
 # 2 Questions I still have are...
 
